@@ -1,0 +1,6 @@
+@ProductManagementCoreWithReact.Server_HostAddress = http://localhost:5219
+
+GET {{ProductManagementCoreWithReact.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
